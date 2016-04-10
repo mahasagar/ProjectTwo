@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/mahasagar/work/nano_degree/ProjectTwo/app/libs/panninglibrary.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a96b2382f5af3ef270a53913c83494ee5ef7a0c6">
+        <dex dex="/home/mahasagar/work/nano_degree/ProjectTwo/app/build/intermediates/pre-dexed/debug/panninglibrary_994c29d8fb886b7063fc3ecbd52a5d0aef88bca6.jar" />
+    </item>
+    <item
+        jar="/home/mahasagar/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/home/mahasagar/work/nano_degree/ProjectTwo/app/build/intermediates/pre-dexed/debug/library-1.0.19_4568611777d8c422f4659c9fc14eb108ec88efed.jar" />
+    </item>
+    <item
+        jar="/home/mahasagar/work/nano_degree/ProjectTwo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/mahasagar/work/nano_degree/ProjectTwo/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_cfd3d9b666f95a005ce372193b4839f03bcb2ebc.jar" />
+    </item>
+    <item
+        jar="/home/mahasagar/work/nano_degree/ProjectTwo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/mahasagar/work/nano_degree/ProjectTwo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_45b7916b9f2363fa45f441217bd2751983f189db.jar" />
+    </item>
+    <item
+        jar="/home/mahasagar/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/home/mahasagar/work/nano_degree/ProjectTwo/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1_0b0e14c9d9a376e02cad1e2fce848b9137c7e79a.jar" />
+    </item>
+    <item
+        jar="/home/mahasagar/work/nano_degree/ProjectTwo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/mahasagar/work/nano_degree/ProjectTwo/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_380109f9544d3384eb51a56bfc9f8510050614cc.jar" />
+    </item>
+    <item
+        jar="/home/mahasagar/work/platform/androidSDK/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/mahasagar/work/nano_degree/ProjectTwo/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_8a570f3b3641974385b49e6fbe137e825b9a90a1.jar" />
+    </item>
+    <item
+        jar="/home/mahasagar/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/mahasagar/work/nano_degree/ProjectTwo/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_717105089f22b2da967fc7a7de5827f1d29ad136.jar" />
+    </item>
+    <item
+        jar="/home/mahasagar/work/nano_degree/ProjectTwo/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/mahasagar/work/nano_degree/ProjectTwo/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_6bcd172c214ece531181d48f8c4416ede95f9379.jar" />
+    </item>
+    <item
+        jar="/home/mahasagar/work/nano_degree/ProjectTwo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/mahasagar/work/nano_degree/ProjectTwo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_709d77fac0149e36983576aec86da587a6b0c463.jar" />
+    </item>
+
+</items>
